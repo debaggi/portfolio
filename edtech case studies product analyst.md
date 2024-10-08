@@ -32,3 +32,24 @@
     <th></th>
   </tr> 
 </table>
+
+
+
+### Notes
+
+#### Изучаемые языки
+- ENG = English
+- QMS = ?
+- SPA = Spanish
+- FRA = French
+- ITA = Italian
+- DEU = Dutch
+- RUS = Russian
+- POR = Portuguese
+- NLD = Nider
+- TUR = Turkish
+- SWE = Swedish
+- DAN = Danish
+- POL = Polish
+- NOR = Norwegian
+- IND = Indonesian
