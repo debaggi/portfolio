@@ -9,19 +9,15 @@
 <html>
 <body>
 
-<h3>Babbel case</h3>
-<p>short description task</p>
-
+<h3>💼 Babbel case</h3>
 <table style="width:100%">
   <tr>
     <th>Stack</th>
     <th>Code</th>
-    <th>Presentation</th>
   </tr>
   <tr>
     <th>Pandas, NumPy, Jupyter Notebook</th>
-    <th></th>
-    <th></th>
+    <th><a href='https://github.com/debaggi/DTCW-BZ-DA-ML-DS/blob/main/Babbel%20case.md'>Babbel case.md</a></th>
   </tr>
 </table>
 </body>
