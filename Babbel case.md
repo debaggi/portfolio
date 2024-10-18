@@ -17,30 +17,15 @@
 
 <table>
   <tr>
-    <th>#</th>
-    <th>Task</th>
     <th>Notebook</th>
+    <th>Stack</th>
+    <th>Tools</th>
   </tr>
   <tr>
-    <th>1</th>
-    <th></th>
-    <th></th>
+    <th>babbel product analysis.ipynb</th>
+    <th>Pandas, NumPy,<br> Math statistical</th>
+    <th>Jupyter, GoogleSheets,<br>Miro, Figma</th>
   </tr>
-  <tr>
-    <th>2</th>
-    <th></th>
-    <th></th>
-  </tr>
-  <tr>
-    <th>3</th>
-    <th></th>
-    <th></th>
-  </tr>
- <tr>
-    <th>4</th>
-    <th></th>
-    <th></th>
-  </tr> 
 </table>
 
 
