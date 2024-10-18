@@ -18,11 +18,13 @@
 <table>
   <tr>
     <th>Notebook</th>
+    <th>Presentation</th>
     <th>Stack</th>
     <th>Tools</th>
   </tr>
   <tr>
-    <th>babbel product analysis.ipynb</th>
+    <th><a href='https://github.com/debaggi/DTCW-BZ-DA-ML-DS/blob/main/babbel%20product%20analysis.ipynb'>babbel product analysis.ipynb</a></th>
+    <th><a href='https://github.com/debaggi/DTCW-BZ-DA-ML-DS/blob/main/babbel%20report.pdf'>report</a></th>
     <th>Pandas, NumPy,<br> Math statistical</th>
     <th>Jupyter, GoogleSheets,<br>Miro, Figma</th>
   </tr>
