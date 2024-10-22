@@ -19,6 +19,12 @@
     <th>Pandas, NumPy, Jupyter Notebook</th>
     <th><a href='https://github.com/debaggi/DTCW-BZ-DA-ML-DS/blob/main/Babbel%20case.md'>Babbel case.md</a></th>
   </tr>
+<tr>
+  <th>Pandas, Scikit-learn, Seaborn</th>
+  <th><a href='https://github.com/debaggi/DTCW-BZ-DA-ML-DS/blob/c0392fd6ad8d5b92f30970f318c58eb1dab86bc5/Customer%20Churn%20Analysis%20.md'>Customer Churn Analysis.md</a>
+    
+  </th>
+</tr>
 </table>
 </body>
 </html>
