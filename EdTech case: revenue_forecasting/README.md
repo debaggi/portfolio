@@ -13,7 +13,7 @@ The data analysts of the EdTech platform received a request to study user behavi
 
 
 ---
-**учитываем только месяцы и суммарное количество клиентов для каждого месяца**
+**one dimensial time series: we take into account only the months and the total number of customers for each month**
 ```
 Model SARIMAX
 Seasonal Auto-Regressive Integrated Moving Average with eXogenous regressors
