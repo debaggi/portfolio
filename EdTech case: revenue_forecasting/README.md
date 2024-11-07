@@ -11,11 +11,23 @@
 ### 📌 The problem
 The data analysts of the EdTech platform received a request to study user behavior and calculate business metrics.
 
+
+---
+**учитываем только месяцы и суммарное количество клиентов для каждого месяца**
 ```
 Model SARIMAX
 Seasonal Auto-Regressive Integrated Moving Average with eXogenous regressors
 ```
 
+
+**учитываем месяцы, суммарное количество клиентов, количество новых клиентов, суммарную выручку**
+```
+Model Multivariant Time Series [MMTS]
+```
+
+```
+Vector Autoregressive Models [VAM]
+```
 
 
 #### Resources:
