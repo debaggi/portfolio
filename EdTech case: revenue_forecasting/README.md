@@ -10,3 +10,14 @@
 
 ### 📌 The problem
 The data analysts of the EdTech platform received a request to study user behavior and calculate business metrics.
+
+```
+Model SARIMAX
+Seasonal Auto-Regressive Integrated Moving Average with eXogenous regressors
+```
+
+
+
+#### Resources:
+* https://github.com/FUlyankin/matstat-AB
+* https://www.youtube.com/watch?v=o9573dTagaE
