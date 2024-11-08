@@ -3,7 +3,7 @@
 <img src="https://pypi-camo.freetls.fastly.net/d7ca45f98bb42530c497ea344d405f84abf0cb71/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d332e372b2d626c75652e737667">
 
 ## 💼 Time series analysis
-* ⚙️ Tools: Google Sheets, Jupyter Notebook
+* ⚙️ Tools: Google Sheets, Jupyter Notebook, Learn UI
 * Libraries: pandas, statsmodels, pmdarima
 * Methods: time series analysis
 
@@ -31,5 +31,6 @@ Vector Autoregressive Models [VAM]
 
 
 #### Resources:
-* https://github.com/FUlyankin/matstat-AB
-* https://www.youtube.com/watch?v=o9573dTagaE
+* <a href='https://github.com/FUlyankin/matstat-AB'>Matstat-AB GitHub</a>
+* <a href='https://www.youtube.com/watch?v=o9573dTagaE'>Matstat-AB YouTube </a>
+* <a href='https://www.learnui.design/tools/data-color-picker.html#palette'>Learn UI</a>
