@@ -5,6 +5,56 @@
 <h2>DA ML DS</h2>
 
 
+
+# Hi there, I'm Debaggi! 👋
+
+Welcome to my GitHub profile! I'm passionate about software development and always eager to learn new technologies. Below you can find more information about me and my work.
+
+## 🚀 About Me
+
+- 🌱 I’m currently learning: [list of technologies or topics you're learning]
+- 👯 I’m looking to collaborate on: [types of projects or technologies]
+- 🤔 I’m looking for help with: [any areas where you need help]
+- 💬 Ask me about: [topics you're knowledgeable in]
+- 📫 How to reach me: [your email address or other contact information]
+- ⚡ Fun fact: [a fun fact about you]
+
+## 🛠️ Technologies & Tools
+
+![PyData](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![SQL](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![ML](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Jupyter Lab](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+
+
+## 🔗 Connect with Me
+
+[Habr Career](https://www.career.habr.com/kali_li)
+
+## 📂 Projects
+
+Here are some of my notable projects:
+
+### Project 1
+**Description:** [Brief description of the project]  
+**Technologies used:** [List of technologies]  
+**Repository:** [Link to the repository]
+
+### Project 2
+**Description:** [Brief description of the project]  
+**Technologies used:** [List of technologies]  
+**Repository:** [Link to the repository]
+
+### Project 3
+**Description:** [Brief description of the project]  
+**Technologies used:** [List of technologies]  
+**Repository:** [Link to the repository]
+
+
+---
+## CASES
+
 <!DOCTYPE html>
 <html>
 <body>
