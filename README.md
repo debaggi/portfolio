@@ -1,61 +1,23 @@
 <h1>DTCW [BZ] </h1>
 
-<img src="https://github.com/user-attachments/assets/c656a439-0c04-4655-99c3-a229f5ea1ff7" alt="debaggi">
-
-<h2>DA ML DS</h2>
-
-
-
-# Hi there, I'm Debaggi! 👋
-
-Welcome to my GitHub profile! 
-
-I am a passionate analyst. 
-I am interested in ambitious tasks at the intersection of science and IT, I am a blockchain enthusiast.
-
-In actual fact, I believe that the future belongs to decentralized systems. Not only and not so much in the aspect of cryptocurrency. Let's imagine that we will have many distributed registries, each of which is focused on solving one or more tasks.
-
-## 🚀 About Me
-
-- 🌱 I’m currently learning: Math of Machine Learning, Game Analytics and others, Infographics
-- 👯 I’m looking to collaborate on: blockchain, bioTech, finTech IT-startups/ IT-company
-- 🤔 I’m looking for help with: [any areas where you need help]
-- 💬 Ask me about: blockchain: DeFi, data visualization
-- 📫 How to reach me: github/debaggi
-- ⚡ Fun fact: I write electro music at night & collect technical models from the Lego series and it's analogues
-
-
-## 🛠️ Technologies & Tools
-
-![PyData](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![SQL](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![ML](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Jupyter Lab](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
-
-
-## 🔗 Connect with Me
-
-[Habr Career](https://www.career.habr.com/kali_li)
 
 ## 📂 Projects
 
-Here are some of my notable projects:
 
 ### Project 1
-**Description:** [Brief description of the project]  
-**Technologies used:** [List of technologies]  
-**Repository:** [Link to the repository]
+* Description: Анализ демографических данных
+* Technologies used: Mathematical statistics + PyData: NumPy, Pandas, Matplotlib, Seaborn, 
+* Repository: [Demographic_data_analyzer.ipynb](https://github.com/debaggi/DTCW-BZ-DA-ML-DS/blob/5eab2b0d6766aa907b359f5570a13be4a1389b50/Demographic_data_analyzer.ipynb)
 
 ### Project 2
-**Description:** [Brief description of the project]  
-**Technologies used:** [List of technologies]  
-**Repository:** [Link to the repository]
+* Description: [Brief description of the project]  
+* Technologies used: [List of technologies]  
+* Repository: [Link to the repository]
 
 ### Project 3
-**Description:** [Brief description of the project]  
-**Technologies used:** [List of technologies]  
-**Repository:** [Link to the repository]
+* Description: [Brief description of the project]  
+* Technologies used: [List of technologies]  
+* Repository: [Link to the repository]
 
 
 ---
