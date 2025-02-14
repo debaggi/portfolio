@@ -7,10 +7,11 @@
 * Использованные инструменты/ Technologies used: Mathematical statistics, PyData: NumPy, Pandas, Matplotlib, Seaborn
 * Результаты анализа/ Results of analysis: [Demographic_data_analyzer.ipynb](https://github.com/debaggi/DTCW-BZ-DA-ML-DS/blob/5eab2b0d6766aa907b359f5570a13be4a1389b50/Demographic_data_analyzer.ipynb)
 
-### 📊 Project 2
-* Description: [Brief description of the project]  
-* Technologies used: [List of technologies]  
-* Repository: [Link to the repository]
+### 📊 Концепт интерактивной панели загрузки менеджеров компании в реальном времени
+* Description: https://github.com/debaggi/deBaggi-cases/blob/main/HouseGet/README.md
+* Использованные инструменты/ Technologies used: Miro
+* Концепт/ The Concept: [HouseGet Board in Miro](https://miro.com/app/board/uXjVLr6Xs-I=/?share_link_id=817491458440)
+
 
 ### 📊 Project 3
 * Description: [Brief description of the project]  
