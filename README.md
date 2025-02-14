@@ -1,13 +1,11 @@
-<h1>DTCW [BZ] </h1>
+
+# 📂 Проекты
 
 
-## 📂 Projects
-
-
-### Project 1
-* Description: Анализ демографических данных
-* Technologies used: Mathematical statistics + PyData: NumPy, Pandas, Matplotlib, Seaborn, 
-* Repository: [Demographic_data_analyzer.ipynb](https://github.com/debaggi/DTCW-BZ-DA-ML-DS/blob/5eab2b0d6766aa907b359f5570a13be4a1389b50/Demographic_data_analyzer.ipynb)
+### Анализ демографических данных/ Demographic data analysis
+* Входные данные/ Input data: https://archive.ics.uci.edu/dataset/2/adult
+* Использованные инструменты/ Technologies used: Mathematical statistics, PyData: NumPy, Pandas, Matplotlib, Seaborn
+* Результаты анализа/ Results of analysis: [Demographic_data_analyzer.ipynb](https://github.com/debaggi/DTCW-BZ-DA-ML-DS/blob/5eab2b0d6766aa907b359f5570a13be4a1389b50/Demographic_data_analyzer.ipynb)
 
 ### Project 2
 * Description: [Brief description of the project]  
