@@ -7,7 +7,11 @@
 
 Набор данных опубликован на платформе **UC Irvine** Machine Learning Repository: https://archive.ics.uci.edu/dataset/2/adult
 
+## 🔗 Просмотреть прокомментированный код с графиками и ответами на вопросы исследования
+> [Перейти к отчету в pdf](https://github.com/debaggi/debaggi-cases/blob/main/Demographic%20Data%20Analysis/research_demographic-data.ipynb%20-%20Colab.pdf)
 
+> [Перейти к Jupyter Notebook](https://github.com/debaggi/deBaggi-cases/blob/0d7af4fc0fa979870bc7c8b40269d0f0658062a4/Demographic%20Data%20Analysis/Demographic_data_analyzer.ipynb)
+> 
 ## 💡 Вопросы, ответы на которые даны в анализе
 
 + Какое распредление имеют количественные признаки?
@@ -24,6 +28,3 @@
 
 ## ⚙️ Инструменты
 математическая статистика, Pandas, NumPy, Seaborn и Matplotlib, Jupyter Notebook
-
-## 🔗 Ссылка на процесс и результаты анализа
-[Перейти к Jupyter Notebook](https://github.com/debaggi/deBaggi-cases/blob/0d7af4fc0fa979870bc7c8b40269d0f0658062a4/Demographic%20Data%20Analysis/Demographic_data_analyzer.ipynb)
