@@ -13,17 +13,18 @@
   </ol>
 </p>
 
-<h2>Перейти к коду с комментариями</h2>
+<h2>Перейти к прокомментированному коду или инфографичному отчету</h2>
 
 <table>
   <tr>
-    <th>Notebook</th>
-    <th>Presentation</th>
-    <th>Stack</th>
-    <th>Tools</th>
+    <th>Код</th>
+    <th>Презентация</th>
+    <th>Библиотеки</th>
+    <th>Инструменты</th>
   </tr>
   <tr>
-    <th><a href='https://github.com/debaggi/deBaggi-cases/blob/main/Babbel%20case/babbel%20product%20analysis.ipynb'>babbel product analysis.ipynb</a></th>
+    <th><a href='https://github.com/debaggi/deBaggi-cases/blob/main/Babbel%20case/babbel%20product%20analysis.ipynb'Babbel Product Analysis.ipynb</a></th>
+    <th><a href='https://www.behance.net/gallery/221421443/Babbel-case-Visualisation'>Инфографичный отчет</a></th>
     <th>Pandas, NumPy,<br> Math statistical</th>
     <th>Jupyter, GoogleSheets,<br>Miro, Figma</th>
   </tr>
