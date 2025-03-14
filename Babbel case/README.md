@@ -1,4 +1,4 @@
-<h1>Babbel case for Product Analyst</h1>
+<h1>Babbel case | Product Analysis</h1>
 
 <h2>Description/ Задачи</h2>
 
@@ -23,8 +23,7 @@
     <th>Tools</th>
   </tr>
   <tr>
-    <th><a href='https://github.com/debaggi/DTCW-BZ-DA-ML-DS/blob/main/babbel%20product%20analysis.ipynb'>babbel product analysis.ipynb</a></th>
-    <th><a href='https://github.com/debaggi/DTCW-BZ-DA-ML-DS/blob/main/babbel%20report.pdf'>report</a></th>
+    <th><a href='https://github.com/debaggi/deBaggi-cases/blob/main/Babbel%20case/babbel%20product%20analysis.ipynb'>babbel product analysis.ipynb</a></th>
     <th>Pandas, NumPy,<br> Math statistical</th>
     <th>Jupyter, GoogleSheets,<br>Miro, Figma</th>
   </tr>
