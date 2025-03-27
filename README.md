@@ -12,3 +12,4 @@
 * Описание кейса| Description: [README.md](https://github.com/debaggi/deBaggi-cases/blob/main/HouseGet/README.md)
 * Использованные инструменты| Technologies used: Miro
 * Концепт| The Concept: [HouseGet Board in Miro](https://miro.com/app/board/uXjVLr6Xs-I=/?share_link_id=817491458440)
+
