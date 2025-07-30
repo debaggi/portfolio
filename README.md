@@ -1,6 +1,11 @@
 
 ## Анализ данных
 
+#### 🪄 Парсинг вакансий с Habr Career  / Parsing job vacancies from Habr Career
+* Libraries: Selenium, logging, sqlite3, psycopg2, pymongo
+* go to code: [selenium_parser_habr_career.ipynb](https://github.com/debaggi/portfolio/blob/main/selenium_parser_habr_career.ipynb)
+
+
 #### 📊 Анализ демографических данных/ Demographic data analysis
 * Case Description: [README.md](https://github.com/debaggi/deBaggi-cases/blob/b1b2769cd3db26bfd7aa6600910a3abe8d0c1395/Demographic%20Data%20Analysis/README.md)
 * Input data: [archive.ics.uci.dataset2.adult](https://archive.ics.uci.edu/dataset/2/adult)
